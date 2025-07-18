@@ -1,6 +1,0 @@
-Hola ingeniero, en el repositorio están todos las bases de datos de las lecciones de Oracle.
-
-Alumno: Carlos Yahir Chávez Guzmán.
-N° Cuenta: 202410050130.
-
-Saludos. 
