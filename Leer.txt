@@ -1,0 +1,10 @@
+Hola ingeniero, saludos.
+
+En el repositorio están los scripts de la mayoría tablas que aparecen en las diapositivas del curso de Oracle, adaptados de MySQL a PostgreSQL.
+
+________________________________________________________________________________________________________________________________________________________________
+
+Ingeniero: Luis Teruel.
+Asignatura: Base de datos II.
+Alumno: Carlos Yahir Chávez Guzmán.
+Cuenta: 202410050130.
